@@ -45,3 +45,4 @@ while attempts > 0:
     print()
 else:
     print(f"¡Perdiste! La palabra era: {word}")
+print (f"Puntaje final: {6-(6-attempts)}")
